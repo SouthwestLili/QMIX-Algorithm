@@ -22,7 +22,7 @@ https://github.com/SouthwestLili/QMIX-Algorithm/blob/main/2006.10800v2.pdf
 
 ---
 
-### Book
+### 📕 Book
 #### Multi-Agent Reinforcement Learning
 https://github.com/SouthwestLili/QMIX-Algorithm/blob/main/marl-book.pdf
 
