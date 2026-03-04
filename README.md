@@ -1,4 +1,9 @@
 # Qmix algorithm summary
+#### English Version:
+https://github.com/SouthwestLili/QMIX-Algorithm/blob/main/QMIX_Algorithm_Summary.md
+#### Chinese Version:
+https://github.com/SouthwestLili/QMIX-Algorithm/blob/main/QMIX%E7%AE%97%E6%B3%95%E6%80%BB%E7%BB%93.md
+
 - Core concepts — IGM property, monotonicity constraint, and why QMIX extends VDN
 - Network architecture — Agent utility networks, Hypernetwork, and Mixing network
 - Training objective — CTDE paradigm and Bellman loss
