@@ -13,8 +13,16 @@ https://github.com/SouthwestLili/QMIX-Algorithm/blob/main/QMIX%E7%AE%97%E6%B3%95
 - Comparison table — IDQN vs VDN vs QMIX
 
 ---
+
 #### QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning
 https://github.com/SouthwestLili/QMIX-Algorithm/blob/main/1803.11485v2.pdf
 
 #### Weighted QMIX: Expanding Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning
 https://github.com/SouthwestLili/QMIX-Algorithm/blob/main/2006.10800v2.pdf
+
+---
+
+### Book
+#### Multi-Agent Reinforcement Learning
+https://github.com/SouthwestLili/QMIX-Algorithm/blob/main/marl-book.pdf
+
